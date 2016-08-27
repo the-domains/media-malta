@@ -1,0 +1,14 @@
+layout_spectrum: 0.9050179
+color:
+  saturation: 1
+  lightness: 0.9713262
+  brandStrength: 0.9285077
+  brandColors:
+    - '#BBBBBB'
+    - '#121212'
+    - '#C7EAFF'
+    - '#8B7455'
+    - '#5F472F'
+  rhythmicContrast: 0.7491348
+typography_spectrum: 0.8477538
+name: Media Malta
